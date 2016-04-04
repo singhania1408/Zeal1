@@ -118,19 +118,25 @@
         <item>4</item>
     </string-array>
     <string-array name="branch">
-        <item>CS</item>
-        <item>IT</item>
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>EE</item>
+        <item>CE</item>
         <item>ME</item>
-        <item>EC</item>
-        <item>Electrical</item>
-        <item>Civil</item>
-        <item>IC</item>
+        <item>IT</item>
         <item>EEE</item>
+        <item>IC</item>
+        <item>MT</item>
+        <item>Other</item>
     </string-array>
     <string-array name="course">
         <item>B-Tech</item>
+        <item>M-Tech</item>
         <item>MCA</item>
         <item>MBA</item>
+        <item>MAM</item>
+        <item>Other</item>
+
     </string-array>
 
 
